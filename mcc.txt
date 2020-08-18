@@ -1,3 +1,7 @@
 Comandos de git y gitbash
 
-Aprendiendo con platzi 
+Aprendiendo git con platzi
+
+cambio1 
+cambio2 
+cambio3 
