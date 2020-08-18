@@ -1,5 +1,3 @@
-Vamos a hablar de machine learning
+Comandos de git y gitbash
 
-Es una rama de la inteligencia artificial 
-
-CREO
+Aprendiendo con platzi 
