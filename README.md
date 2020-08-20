@@ -1,2 +1,2 @@
 # hyperblog
-Un ejemplo de blog para el curso de git de platzi 
+Un blog increíble para el curso de Git y Github de Platzi
